@@ -81,7 +81,7 @@ public class DashbActivity extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-
+//menu
         getMenuInflater().inflate( R.menu.pager_menu,menu);
 
         return true;
